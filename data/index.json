@@ -89,37 +89,48 @@
             "name": "Thimna ",
             "surname": " Alam",
             "quotes": "Carl is the most grounded, well mannered and focused person I have ever met. He is one to fixate on a problem until it is perfectly done in other words he leaves no room for error. One skill that mostly possesses is self discipline and at that he also knows how to lead others. If there is one thing I admire about him is that if you go ask him for help if he doesn't know he will tell you but to your surprise he will make it his mission to go do research and come back to you with a solution. Among all of those amazing characteristics he is a respectful person who sees value in each person and everything.",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "profile": "https://i.postimg.cc/Pq6Fc3BM/IMG-1409.jpg",
+            "role" : "Colleague"
         },
         {
             "name": "Veronique",
             "surname": "Nappie",
             "quotes": "Mr James, my testamonial: Carl has demonstrated many of the skills required to be a great developer. He is meticulous and pays attention to detail when it comes to his work on a small and larger scale. He is incredibly efficient at managing his time and works hard at every task his given. Other than technical skills he is effective at communicating and shows great skills for leadership too. In addition, he is always willing to help his colleagues and will be a great asset to any company and team he is a part of",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRhrwtVJTXa6CLIs7ukjQhAGg5tF6tfUPuRQg9pbpUJh8DPD3cXflSxk_Yx3AwJJ-pYEAd8RQWnA4d-X2QoTslI49B_ow=w1920-h868"
-        },
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRhrwtVJTXa6CLIs7ukjQhAGg5tF6tfUPuRQg9pbpUJh8DPD3cXflSxk_Yx3AwJJ-pYEAd8RQWnA4d-X2QoTslI49B_ow=w1920-h868",
+            "role" : "Colleague"
+
+        }, 
         {
             "name": "Tamlin",
             "surname": "Geyer",
             "quotes": "Carl's dedication to his craft is nothing short of commendable. Despite his free-spirited nature, he demonstrates an unwavering commitment to his work, consistently delivering exceptional results. His ability to balance the demands of coding and personal life is truly remarkable, showcasing a level of professionalism that is both rare and inspiring. As a full-stack developer, Carl exhibits a remarkable proficiency in both front-end and back-end technologies. His coding skills are not only technically sound but also reflect a balanced and thoughtful approach to problem-solving. Carl's projects consistently showcase a harmonious blend of creativity and precision, a testament to his proficiency as a well-rounded developer. In addition to his focused approach to coding, Carl is known for his willingness to assist others. He generously shares his knowledge and expertise, proving to be an invaluable asset to colleagues and peers alike. Carl's helpful and collaborative nature creates a positive working environment, fostering a sense of camaraderie among team members.",
-            "profile": "https://i.postimg.cc/VkTyGFPK/20240110-121622.jpg"
+            "profile": "https://i.postimg.cc/VkTyGFPK/20240110-121622.jpg",
+            "role" : "Colleague"
+
         },
         {
             "name": "Sivuyisiwe ",
             "surname": "Peter",
             "quotes": "I am thrilled to share my heartfelt testimonial for Carl, a remarkable colleague. His expertise in HTML, CSS, Vue.js, JavaScript, and  is truly impressive, and he effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Carl apart is his exceptional adapting skills.  I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding colleague.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRRMrYjLNGHbACtzeidTaT3Vcjv4o9jx45JJU-72p3ERGZip8TBKI2X4Xol6GAbVM879gb3ij4M5mVSbvML-P0avM5Y6Q=w1920-h868"
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRRMrYjLNGHbACtzeidTaT3Vcjv4o9jx45JJU-72p3ERGZip8TBKI2X4Xol6GAbVM879gb3ij4M5mVSbvML-P0avM5Y6Q=w1920-h868",
+            "role" : "Colleague"
+
         },
         {
             "name": "Aakeefah",
             "surname": "Jones",
             "quotes": "Working with Carl James was awesome! He really knows his stuff when it comes to web development. Super chill and easy to communicate with. I'd definitely team up with him again!",
-            "profile": "https://i.postimg.cc/NjLqkzSy/20231101-195430.jpg"
+            "profile": "https://i.postimg.cc/NjLqkzSy/20231101-195430.jpg",
+            "role" : "Colleague"
+
         },
         {
             "name": "Pinda",
             "surname": "Fortuin",
             "quotes": "Carl is an incredible web developer with outstanding front end skills, working alongside him has been a pleasure.His friendly and helpful demeanor made collaboration seamless, and his talent brought creativity and efficiency to our projects.Beyond that, his humor also added a delightful touch to the team dynamic. Truly a valuable addition to any web development team.",
-            "profile": "https://i.postimg.cc/J46S0Q0R/res.jpg"
+            "profile": "https://i.postimg.cc/J46S0Q0R/res.jpg",
+            "role" : "Colleague"
+
         }
     ],
     "projects":[
