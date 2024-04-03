@@ -135,6 +135,19 @@
     ],
     "projects":[
         {
+            "name": "Forbidden Bliss",
+            "description": "Capstone Project. Ecom website",
+            "image": "../assets/forbiddenbliss.png",
+            "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
+        },
+        {
+            "name": "Kiessy Soap",
+            "description": "Ecom website that sells soap",
+            "image": "../assets/kiessysoap.png",
+            "gitHub": "https://github.com/Understudystudent/EcomWebsite",
+            "netlify": "https://undergroundmarket-ecom.netlify.app/"
+        },
+        {
             "name": "Netflix",
             "description": "I built this application using HTML 5, CSS,",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTovMm1dgTT6eYy8CPoE4_HDe7NQzmBpGVYWXyApKYrSjNqbJOLImaeaFBUWLYgpLHi-TpAK6q8eIV3CiI-VA8fyWXpvA=w1920-h868",
@@ -148,19 +161,7 @@
             "gitHub": "https://github.com/Understudystudent/Telsa",
             "netlify": "https://tesla-zaio-project-clone.netlify.app/"
         },
-        {
-            "name": "Ecom",
-            "description": "The Underground market is an Ecom webiste I built for my project for selling products online. I make use of Html, Css, and Bootstrap.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSZx3h7krAlHJYHmSVdYWBnzu7aY4-YerkydhUoR7PAuXp1MaHYK-my6gM0MjcekZch6HrGQ-7rQLoD87sIc8rWFRXlIA=w1920-h868",
-            "gitHub": "https://github.com/Understudystudent/EcomWebsite",
-            "netlify": "https://undergroundmarket-ecom.netlify.app/"
-        },
-        {
-            "name": "Forbidden Bliss",
-            "description": "Capstone Project. Ecom website",
-            "image": "https://i.ibb.co/jLsd7nW/forbidden-bliss.png",
-            "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
-        },
+
         {
             "name": "Youtube",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
