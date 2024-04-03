@@ -137,16 +137,23 @@
         {
             "name": "Forbidden Bliss",
             "description": "Capstone Project. Ecom website",
-            "image": "../assets/forbiddenbliss.png",
+            "image": "https://ibb.co/8jtJF1d",
             "gitHub": "https://github.com/Understudystudent/forbidden-fruit",
             "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
         },
         {
             "name": "Kiessy Soap",
             "description": "Ecom website that sells soap",
-            "image": "../assets/kiessysoap.png",
-            "gitHub": "https://github.com/Understudystudent/EcomWebsite",
-            "netlify": "https://undergroundmarket-ecom.netlify.app/"
+            "image": "https://ibb.co/Kzk8FrC",
+            "gitHub": "https://github.com/Understudystudent/Kiessy_artisan_soaps34",
+            "netlify": "https://kiessysoaps.netlify.app/"
+        },
+        {
+            "name": "Only Water",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://ibb.co/jD9jTV6",
+            "gitHub": "https://github.com/CodeBroke33/nodejsEOMP",
+            "netlify": "https://nodejseomp-8da3d.web.app/"
         },
         {
             "name": "Netflix",
@@ -158,7 +165,7 @@
         {
             "name": "Telsa",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://i.ibb.co/hcyMtzg/Screenshot-2024-04-02-154306.png",
+            "image": "https://ibb.co/cw1v7ny",
             "gitHub": "https://github.com/Understudystudent/Telsa",
             "netlify": "https://tesla-zaio-project-clone.netlify.app/"
         },
@@ -166,16 +173,10 @@
         {
             "name": "Youtube",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://i.ibb.co/zQR6bkC/Screenshot-2024-04-02-154554.png",
+            "image": "https://ibb.co/17qzKSB",
             "gitHub": "https://github.com/Understudystudent/youtbe",
             "netlify": "hhttps://youtube-clone-zaio-carl.netlify.app/"
-        },
-        {
-            "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnxaiqOzxzzoUqHv5JnEu5Ud62QFMt_6S8dK2vdEdvZB-qsb5wq1wYIKtwLKc5OhzxAzsLC0wQIY9KdZ5Fx9oUNvJhUA=w1920-h868",
-            "gitHub": "https://github.com/Understudystudent/Calculator",
-            "netlify": "https://calculatorwhitebootcamp.netlify.app/"
         }
+
     ]
 }
