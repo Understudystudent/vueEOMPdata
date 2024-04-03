@@ -88,7 +88,7 @@
         {
             "name": "Thimna ",
             "surname": " Alam",
-            "quotes": "Carl is the most grounded, well mannered and focused person I have ever met. He is one to fixate on a problem until it is perfectly done in other words he leaves no room for error. One skill that mostly possesses is self discipline and at that he also knows how to lead others. If there is one thing I admire about him is that if you go ask him for help if he doesn't know he will tell you but to your surprise he will make it his mission to go do research and come back to you with a solution. Among all of those amazing characteristics he is a respectful person who sees value in each person and everything.",
+            "quotes": "Carl is the most grounded, well mannered and focused person I have ever met. He is one to fixate on a problem until it is perfectly done in other words he leaves no room for error. One skill that mostly possesses is self discipline and at that he also knows how to lead others. If there is one thing I admire about him is that if you go ask him for help if he doesn't know he will tell you but to your surprise he will make it his mission to go do research and come back to you with a solution.",
             "profile": "https://i.postimg.cc/Pq6Fc3BM/IMG-1409.jpg",
             "role" : "Colleague"
         },
@@ -137,21 +137,21 @@
         {
             "name": "Forbidden Bliss",
             "description": "Capstone Project. Ecom website",
-            "image": "https://ibb.co/8jtJF1d",
+            "image": "https://i.ibb.co/jLsd7nW/forbidden-bliss.png",
             "gitHub": "https://github.com/Understudystudent/forbidden-fruit",
             "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
         },
         {
             "name": "Kiessy Soap",
             "description": "Ecom website that sells soap",
-            "image": "https://ibb.co/Kzk8FrC",
+            "image": "https://i.ibb.co/S78ZR3q/Kiessy-Soap.png",
             "gitHub": "https://github.com/Understudystudent/Kiessy_artisan_soaps34",
             "netlify": "https://kiessysoaps.netlify.app/"
         },
         {
             "name": "Only Water",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://ibb.co/jD9jTV6",
+            "image": "https://i.ibb.co/89nQ0zK/Only-Water.png",
             "gitHub": "https://github.com/CodeBroke33/nodejsEOMP",
             "netlify": "https://nodejseomp-8da3d.web.app/"
         },
@@ -165,7 +165,7 @@
         {
             "name": "Telsa",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://ibb.co/cw1v7ny",
+            "image": "https://i.ibb.co/hcyMtzg/Screenshot-2024-04-02-154306.png",
             "gitHub": "https://github.com/Understudystudent/Telsa",
             "netlify": "https://tesla-zaio-project-clone.netlify.app/"
         },
@@ -173,7 +173,7 @@
         {
             "name": "Youtube",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://ibb.co/17qzKSB",
+            "image": "https://i.ibb.co/zQR6bkC/Screenshot-2024-04-02-154554.png",
             "gitHub": "https://github.com/Understudystudent/youtbe",
             "netlify": "hhttps://youtube-clone-zaio-carl.netlify.app/"
         }
