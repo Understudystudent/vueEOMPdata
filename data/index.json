@@ -138,6 +138,7 @@
             "name": "Forbidden Bliss",
             "description": "Capstone Project. Ecom website",
             "image": "../assets/forbiddenbliss.png",
+            "gitHub": "https://github.com/Understudystudent/forbidden-fruit",
             "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
         },
         {
