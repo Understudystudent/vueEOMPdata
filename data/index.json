@@ -144,7 +144,7 @@
         {
             "name": "Telsa",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTC8p18epBGwgEJ_JSB3KFcT5mpR5diX15ld9ETpTpwHBZhkbc7mAKlcQnGOzZas2369X35ieCXFzUWgkt8aa-Gtfsc=w1920-h868",
+            "image": "https://i.ibb.co/hcyMtzg/Screenshot-2024-04-02-154306.png",
             "gitHub": "https://github.com/Understudystudent/Telsa",
             "netlify": "https://tesla-zaio-project-clone.netlify.app/"
         },
@@ -156,16 +156,15 @@
             "netlify": "https://undergroundmarket-ecom.netlify.app/"
         },
         {
-            "name": "Meet the Team",
-            "description": "A mini Boostrap project site built using HTML 5, CSS and Bootstrap 5",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSt_T_-Twb3MQIQAm3g8BWi9D6hr5KfudY1lDe4NwUPjEE9-zM9pPBJyZ-FH_8mB8uGvshkZR4W9xP4rdCZ-79erzaJ=w1920-h868",
-            "gitHub": "https://github.com/Understudystudent/MeetTheTeam",
-            "netlify": "https://meet-the-grid.netlify.app/"
+            "name": "Forbidden Bliss",
+            "description": "Capstone Project. Ecom website",
+            "image": "https://i.ibb.co/jLsd7nW/forbidden-bliss.png",
+            "netlify": "https://forbiddenbliss-36299.firebaseapp.com/login"
         },
         {
             "name": "Youtube",
             "description": "I built a youtube clone using HTML 5, CSS, Bootstrap",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQxb8GswPrLaY-LHALGTJeCnau7J5OJmX50dTjb1sfBZ5AAabsXrO5DPtCEa-4HS63jOZXiavJoh7pHi-d2qqx9hvge=w1920-h868",
+            "image": "https://i.ibb.co/zQR6bkC/Screenshot-2024-04-02-154554.png",
             "gitHub": "https://github.com/Understudystudent/youtbe",
             "netlify": "hhttps://youtube-clone-zaio-carl.netlify.app/"
         },
